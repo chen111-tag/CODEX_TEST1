@@ -1,0 +1,63 @@
+{
+  "verifiedAt": "2026-09-27",
+  "storyCount": 7,
+  "checks": [
+    {
+      "id": "alibaba-phone",
+      "published": "2026-09-22",
+      "source": "https://www.alizila.com/alibaba-launches-qwen-intelligence-to-power-next-generation-agentic-smartphones/",
+      "sourceTextSha256": "8fc4654833cd79e8c8d46469d20e40e191a13137797a894419d1f3d6bc85a851",
+      "dateCheck": "passed",
+      "sourceTitleCheck": "passed"
+    },
+    {
+      "id": "tencent-education",
+      "published": "2026-09-16",
+      "source": "https://www.tencent.com/zh-cn/ai-for-all-initiative-to-build-practical-ai-skills-for-students-and-teachers-in-hong-kong/",
+      "sourceTextSha256": "b6a4bd2781293f1775bc7e14b47984ba5ed4ffb5730f8e55cb871b7980e0ee9b",
+      "dateCheck": "passed",
+      "sourceTitleCheck": "passed"
+    },
+    {
+      "id": "baidu-v20",
+      "published": "2026-09-13",
+      "source": "https://home.baidu.com/home/index/news_detail/id/18061",
+      "sourceTextSha256": "10023de77d43cf398dd0f6f71d3b4f25b8f970a5311ccf5d1330eec912880040",
+      "dateCheck": "passed",
+      "sourceTitleCheck": "passed"
+    },
+    {
+      "id": "tencent-social",
+      "published": "2026-09-11",
+      "source": "https://www.tencent.com/zh-cn/tencent-and-ngos-bring-ai-into-social-services-in-hong-kong/",
+      "sourceTextSha256": "9fa2496350dcdc7dc2ef7704ad3caa8069e5a9f8da8877cdb1984bd69cec6e8d",
+      "dateCheck": "passed",
+      "sourceTitleCheck": "passed"
+    },
+    {
+      "id": "baidu-hk",
+      "published": "2026-09-05",
+      "source": "https://home.baidu.com/home/index/news_detail/id/18060",
+      "sourceTextSha256": "ef5d49e6a03f0fb83a4645533cf573678a7528c8ce79079978076f0cf9171d5d",
+      "dateCheck": "passed",
+      "sourceTitleCheck": "passed"
+    },
+    {
+      "id": "alibaba-qwen",
+      "published": "2026-09-02",
+      "source": "https://www.alizila.com/alibaba-unveils-qwen3-8-max-most-capable-flagship-model-to-date/",
+      "sourceTextSha256": "35aacdf9249d969ecd362da6e3b44016f68e6ecd174a2016d139e98ef034f0e8",
+      "dateCheck": "passed",
+      "sourceTitleCheck": "passed"
+    },
+    {
+      "id": "tencent-hy4",
+      "published": "2026-08-28",
+      "source": "https://www.tencent.com/zh-cn/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "sourceTextSha256": "30a8cd849710d4adddf214fafc920fe5f350dfb7afbf04666cfd5215cbfd68df",
+      "dateCheck": "passed",
+      "sourceTitleCheck": "passed"
+    }
+  ],
+  "limitations": "直接读取企业官方原文；对照页面发布日期、可用的文章元数据或官方新闻列表；逐条核对摘要与原文对应关系。官方性能与效果描述不等同于独立评测。"
+}
